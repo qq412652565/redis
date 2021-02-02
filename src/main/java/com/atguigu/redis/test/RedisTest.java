@@ -38,5 +38,9 @@ public class RedisTest {
     public void test03(){
         System.out.println("测试github,master");
     }
+    @Test
+    public void test04(){
+        System.out.println("test,hotfix");
+    }
 
 }
