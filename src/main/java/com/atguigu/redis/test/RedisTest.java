@@ -46,5 +46,9 @@ public class RedisTest {
     public void test05(){
         System.out.println("clone");
     }
+    @Test
+    public void test06(){
+        System.out.println("clone2");
+    }
 
 }
