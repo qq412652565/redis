@@ -34,5 +34,9 @@ public class RedisTest {
         JedisCluster jedisCluster = new JedisCluster(set);
         System.out.println(jedisCluster.get("k1"));
     }
+    @Test
+    public void test04(){
+        System.out.println("test,hotfix");
+    }
 
 }
