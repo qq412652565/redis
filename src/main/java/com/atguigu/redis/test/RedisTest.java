@@ -42,5 +42,9 @@ public class RedisTest {
     public void test04(){
         System.out.println("test,hotfix");
     }
+    @Test
+    public void test05(){
+        System.out.println("clone");
+    }
 
 }
